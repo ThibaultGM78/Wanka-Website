@@ -1,0 +1,9 @@
+Facture wanka
+------
+0€.
+------
+Facture wanka
+------
+b01*3= 60€|TTC: 72€|TVA= 20%
+72€.
+------
